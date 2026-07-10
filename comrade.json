@@ -1,12 +1,12 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/firatkutay/cli-comrade/releases/download/v0.1.2/comrade_0.1.2_windows_amd64.zip",
+            "url": "https://github.com/firatkutay/cli-comrade/releases/download/v0.1.3/comrade_0.1.3_windows_amd64.zip",
             "bin": [
                 "comrade.exe"
             ],
-            "hash": "08dbb3ab5e9945c1804f14e30dfc90df9ba5372e66526013e29a9ecc6a0bcd53"
+            "hash": "814aae4f2d9cf5d4b8ba4774e734d45a0917fe541433f743f73b0fb66cac11ce"
         }
     },
     "homepage": "https://github.com/firatkutay/cli-comrade",
