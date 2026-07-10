@@ -1,0 +1,15 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/firatkutay/cli-comrade/releases/download/v0.1.2/comrade_0.1.2_windows_amd64.zip",
+            "bin": [
+                "comrade.exe"
+            ],
+            "hash": "08dbb3ab5e9945c1804f14e30dfc90df9ba5372e66526013e29a9ecc6a0bcd53"
+        }
+    },
+    "homepage": "https://github.com/firatkutay/cli-comrade",
+    "license": "MIT",
+    "description": "Cross-platform AI CLI companion for the terminal (TR/EN)."
+}
